@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.freefirehack.co	TRUE	/	FALSE	1999999999	__cfduid	db720bca051c93774e78fea0f5e382d6d1606051949
+freefirehack.co	TRUE	/	FALSE	1999999999	SameSite	Lax
+
